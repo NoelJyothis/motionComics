@@ -1,0 +1,15 @@
+video{
+margin: auto;
+border-radius: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+max-width: 70%;
+}
+
+@media screen and (max-width: 1080px){
+video{
+max-width: 90%;
+margin : 0px;
+border-radius: 0px;
+}
+}
